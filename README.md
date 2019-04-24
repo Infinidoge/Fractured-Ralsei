@@ -1,5 +1,8 @@
 # Ralsei, the Fluffiest Bot on Discord! 
 ##### This is the third iteration of rewritting the original Infinidoge/Ralsei (said repository has been archived)
+
+#### Note: the name Ralsei will be changed in the future, i just couldn't think of a name and choose the first character i could think of.
+#### Please don't sue me.
 Ralsei is a general purpose bot meant to have functionality that continues expanding over time with new cogs and integrated features
 
 The Ralsei Bot discord can be found [here](https://discord.gg/7UaaAze) (https://discord.gg/7UaaAze)
