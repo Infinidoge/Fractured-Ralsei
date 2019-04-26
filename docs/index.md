@@ -2,7 +2,7 @@
 ***
 #### An Explanation
 Ralsei is a multi-purpose modular Discord bot, friendly mainly to those who can program for the maximum functionality.
-##### Note: This site will update with further information.
+##### Note: This site will update with further information at a later date. For now, see the Github Wiki page of the repository for more information. ReadTheDocs/RTFM functionality or similar will be provided in the future.
 
 ##### The main features of Ralsei are:
 1. Dynamic cog loading
