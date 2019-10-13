@@ -5,8 +5,6 @@
 #### Please don't sue me.
 Ralsei is a general purpose bot meant to have functionality that continues expanding over time with new cogs and integrated features
 
-The Ralsei Bot discord can be found [here](https://discord.gg/7UaaAze) (https://discord.gg/7UaaAze)
-
 You can also send @Infinidoge a message using his discord tag: `Infinidoge#1337`
 
 #### Want to write a cog for ralsei?
